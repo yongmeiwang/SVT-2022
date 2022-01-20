@@ -1,0 +1,9 @@
+\\ 260 FL particles
+
+\\ 45 False FL particles
+
+\\ 137 particles
+
+\\ 31 False DF particles
+
+\\152 FL bound so (260 - 45 = 215 so 152/215 = 70% Binding
