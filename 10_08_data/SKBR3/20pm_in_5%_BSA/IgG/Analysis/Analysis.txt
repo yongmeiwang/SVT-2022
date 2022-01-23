@@ -1,9 +1,0 @@
-\\ 123 FL particles
-
-\\ 22 False FL
-
-\\ 35 DF Particles 
-
-\\ 2 False DF particles
-
-\\ 28 FL partciles bound so (123 - 22 = 101 real FL. Then 28 / 101 = 27 %
