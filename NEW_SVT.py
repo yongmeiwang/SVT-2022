@@ -90,9 +90,7 @@ class DIA:
         
         data["DF_unexpressed"] = (data["target_intensity"]) - (data["target_intensity"] * (data["expressed"]))
         
-
-        
-       
+        data["log10_DF_Intensity"] = np.log10(data["target_intensity"])
         
         n_vesicles = data.shape[0]
         n_markers = data.expressed.values.sum() 
